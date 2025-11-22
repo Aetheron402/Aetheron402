@@ -126,7 +126,7 @@ A publicly evolving roadmap, taken directly from Aetheron’s main website.
 
 ## 🌐 Links
 
-- **Website:** https://aetheron402.com  
+- **Website:** https://www.aetheron402.com  
 - **Twitter:** https://twitter.com/Aetheron402  
 - **Email:** team@aetheron402.com  
 

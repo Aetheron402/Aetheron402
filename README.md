@@ -64,9 +64,9 @@ A publicly evolving roadmap, taken directly from Aetheron’s main website.
 
 ## **Q4 2025 — Expansion of Intelligence Suite**
 **(October–December)**  
-- Contract Intelligence Analyzer  
+- Contract Intelligence Analyzer✅
 - Prebuilt Agent Store (AI agent templates)  
-- Aetheron Token launch on Pump.fun  
+- Aetheron Token launch on Pump.fun✅
 - Multi-endpoint backend refactor  
 - Aetheron Docs v2 + full brand overhaul  
 

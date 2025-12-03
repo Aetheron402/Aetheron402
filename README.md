@@ -27,9 +27,15 @@ Aetheron is launching on **Solana** first, with **multi-chain support** (EVM & L
 - **[aetheron-frontend](https://github.com/Aetheron402/aetheron-frontend)**  
   Frontend UI for the Aetheron component marketplace.
 
+- **[aetheron-public-backend](https://github.com/Aetheron402/aetheron-public-backend)**  
+  High-level backend template showing the structure of Aetheron's worker system,
+  utilities, storage layout, and configuration.  
+  (This template does **not** include production logic, payment systems, or internal workflows.)
+
 ### 🔒 Private  
 - **aetheron-backend**  
-  Backend API, X402 payment processor, Celery task workers, PDF generator, ledger utilities.
+  Full backend API, X402 payment processor, Celery task workers, ledger system,
+  PDF engine, contract intelligence pipelines, and all proprietary logic.
 
 (Backend is private to protect proprietary systems, payment logic, and agent architecture.)
 
